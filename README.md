@@ -1,7 +1,12 @@
 # Intregarate new microservices(Node.js) with Microservices with Spring Boot - v8 
 
 Thanks to: https://github.com/microservices-practical/microservices-v8
+
 This project contains the version 8 of the application that is developed under the scope of the book *Learn Microservices with Spring Boot*. You can get a copy of the book on [Amazon](http://amzn.to/2FSB2ME) or [Apress](http://www.apress.com/book/9781484231647).
+
+#NEW ARCHITECTURE
+![NewArchitecture](https://github.com/chinyyyyyyyy/sa_microservice/blob/master/1621302.png)
+
 
 #STEP
 
