@@ -11,13 +11,13 @@ This project contains the version 8 of the application that is developed under t
 
 # STEP
 
-1 run rabbit-mq
+### 1 run rabbit-mq
 o Start the server using the following command
 rabbitmq-server
 o Enable the RabbitMQ management plugin using the following command
 rabbitmq-plugins enable rabbitmq_management
 
-2 start 5 microservice
+### 2 start 5 microservice
 o Gamification: 
 ```
 java -jar ./gamification/target/gamification-v8-0.8.0-SNAPSHOT.jar
