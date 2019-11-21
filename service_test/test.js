@@ -9,8 +9,10 @@ app.use(function(req, res, next) {
 });
   
 
-app.get('/eiei',(req,res)=>{
-    res.send("I'm new servcie from localhost:6969");    
+app.get('/eiei/:input1&:input2',(req,res)=>{
+    var answer = parseInt(req.params.input1) * parseInt(req.params.input2)
+    console.log(answer)
+    res.send(answer.toString());    
 });
 
 app.listen(6969,()=>{
