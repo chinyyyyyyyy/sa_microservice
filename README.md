@@ -43,6 +43,11 @@ node ./service_test/test.js
 Run index.html files in UI via your sever
 
 
+OUR presentation slide: [https://docs.google.com/presentation/d/1PumKgiLBoHPGEAuIjaQmuZOZ8cya3TNdkHo-HIsFf5U/edit?usp=sharing]
+
+
+
+
 
 
 
